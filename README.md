@@ -71,7 +71,9 @@ Data Analyst en la **Municipalidad de Guaymallén** y fundador de **[Polpo](http
 
 | Proyecto | Descripción | Stack | Stars |
 |---|---|---|---|
-| [ai-content-generation-pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline) | Pipeline editorial automatizado con n8n y Google Sheets. Rate-limit safe, angle rotation. | n8n · Sheets | ★ 4 
+| [ops-data-portfolio](https://github.com/mauro-montenegro-data/ops-data-portfolio) | Control de stock operativo: PostgreSQL + n8n → alertas de faltantes a Telegram en tiempo real. | PostgreSQL · n8n · Docker | — |
+| [ai-content-generation-pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline) | Pipeline de generación de contenido con GPT-4, validación multicapa y QA automático. 88% pass rate en pruebas. | n8n · OpenAI · Sheets | — |
+
 ---
 
 ## 🏢 Experiencia
