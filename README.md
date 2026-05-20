@@ -2,7 +2,7 @@
 
 # Mauro Montenegro
 
-**Data Analyst · Automation Engineer · Founder @Polpo**
+**Data Analyst · Operations Automation · Founder @Polpo**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-montenegro)
 [![Web](https://img.shields.io/badge/polpo.ar-1a1a1a?style=for-the-badge&logo=globe&logoColor=white)](https://polpo.ar)
@@ -14,7 +14,8 @@
 
 ## Sobre mí
 
-Data Analyst en la **Municipalidad de Guaymallén** y fundador de **[Polpo](https://polpo.ar)**, una agencia de automatización digital para pymes latinoamericanas. Trabajo en el cruce de datos, automatización y operaciones — convirtiendo procesos manuales en sistemas que se ejecutan solos.
+Jefe Administrativo en la **Municipalidad de Guaymallén** con foco en datos, automatización y mejora de procesos operativos.
+Fundador de **[Polpo](https://polpo.ar)**, agencia de automatización digital para pymes latinoamericanas. Construyo pipelines, dashboards y flujos que eliminan trabajo manual — convirtiendo procesos repetitivos en sistemas que se ejecutan solos.
 
 > *"Si el proceso es repetitivo, lo automatizo."*
 
@@ -25,7 +26,7 @@ Data Analyst en la **Municipalidad de Guaymallén** y fundador de **[Polpo](http
 | | |
 |---|---|
 | 🔨 **Building** | WhatsApp bot + sistema de llamado de turno para clínica médica |
-| 📚 **Learning** | AWS fundamentals · dbt · ML ops |
+| 📚 **Learning** | AWS fundamentals · dbt · Analytics Engineering |
 | 🎯 **Looking for** | Roles de Data Analyst / Operations Analyst |
 | 🌐 **Agency** | [polpo.ar](https://polpo.ar) — automatización para pymes LATAM |
 
@@ -50,6 +51,16 @@ Data Analyst en la **Municipalidad de Guaymallén** y fundador de **[Polpo](http
 
 ---
 
+## 📁 Proyectos destacados
+
+| Proyecto | Descripción | Stack | Stars |
+|---|---|---|---|
+| [ops-data-portfolio](https://github.com/mauro-montenegro-data/ops-data-portfolio) | Control de stock operativo: PostgreSQL + n8n → alertas de faltantes a Telegram en tiempo real. | PostgreSQL · n8n · Docker | — |
+| [ai-content-generation-pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline) | Pipeline de generación de contenido con GPT-4, validación multicapa y QA automático. 88% pass rate en pruebas. | n8n · OpenAI · Sheets | — |
+
+---
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -67,14 +78,6 @@ Data Analyst en la **Municipalidad de Guaymallén** y fundador de **[Polpo](http
 
 ---
 
-## 📁 Proyectos destacados
-
-| Proyecto | Descripción | Stack | Stars |
-|---|---|---|---|
-| [ops-data-portfolio](https://github.com/mauro-montenegro-data/ops-data-portfolio) | Control de stock operativo: PostgreSQL + n8n → alertas de faltantes a Telegram en tiempo real. | PostgreSQL · n8n · Docker | — |
-| [ai-content-generation-pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline) | Pipeline de generación de contenido con GPT-4, validación multicapa y QA automático. 88% pass rate en pruebas. | n8n · OpenAI · Sheets | — |
-
----
 
 ## 🏢 Experiencia
 
