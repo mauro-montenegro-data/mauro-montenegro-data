@@ -4,7 +4,7 @@
 
 **Data Analyst · Operations Automation · Founder @Polpo**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-montenegro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-montenegro-data)
 [![Web](https://img.shields.io/badge/polpo.ar-1a1a1a?style=for-the-badge&logo=globe&logoColor=white)](https://polpo.ar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somos.polpo@gmail.com)
 
@@ -15,7 +15,7 @@
 ## Sobre mí
 
 Jefe Administrativo en la **Municipalidad de Guaymallén** con foco en datos, automatización y mejora de procesos operativos.
-Fundador de **[Polpo](https://polpo.ar)**, agencia de automatización digital para pymes latinoamericanas. Construyo pipelines, dashboards y flujos que eliminan trabajo manual — convirtiendo procesos repetitivos en sistemas que se ejecutan solos.
+Fundador de **[Polpo](https://polpo.ar)**, agencia de automatización digital para pymes latinoamericanas. Construyo pipelines, dashboards y flujos que reducen trabajo manual y convierten procesos repetitivos en sistemas más ordenados, medibles y automatizados.
 
 > *"Si el proceso es repetitivo, lo automatizo."*
 
@@ -53,10 +53,14 @@ Fundador de **[Polpo](https://polpo.ar)**, agencia de automatización digital pa
 
 ## 📁 Proyectos destacados
 
-| Proyecto | Descripción | Stack | Stars |
-|---|---|---|---|
-| [ops-data-portfolio](https://github.com/mauro-montenegro-data/ops-data-portfolio) | Control de stock operativo: PostgreSQL + n8n → alertas de faltantes a Telegram en tiempo real. | PostgreSQL · n8n · Docker | — |
-| [ai-content-generation-pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline) | Pipeline de generación de contenido con GPT-4, validación multicapa y QA automático. 88% pass rate en pruebas. | n8n · OpenAI · Sheets | — |
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [ops-data-portfolio](https://github.com/mauro-montenegro-data/ops-data-portfolio) | Control de stock operativo: PostgreSQL + n8n → alertas de faltantes a Telegram en tiempo real. | PostgreSQL · n8n · Docker |
+| [ai-content-generation-pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline) | Pipeline de generación de contenido con GPT-4, validación multicapa y QA automático. 88% pass rate en pruebas. | n8n · OpenAI · Sheets |
+| [polpo-web](https://github.com/mauro-montenegro-data/polpo-web) | Sitio web institucional de Polpo — agencia de automatización para pymes LATAM. Deploy en Vercel + dominio polpo.ar. | HTML · CSS · Vercel |
+| [clinic-caller-system](https://github.com/mauro-montenegro-data/clinic-caller-system) | Sistema de llamado de turno para sala de espera con display en pantalla. Integración con Helios vía Excel export. | Node.js · Docker · HTML |
+| [whatsapp-bot-clinic](https://github.com/mauro-montenegro-data/whatsapp-bot-clinic) | Bot de atención automatizada por WhatsApp para clínica médica. WhatsApp Cloud API + n8n + Supabase. | n8n · WhatsApp API · Supabase |
+| [gestion-espacios-publicos](https://github.com/mauro-montenegro-data/gestion-espacios-publicos) | Dashboard operativo para gestión y seguimiento de espacios verdes municipales. Análisis de datos con SQL y Power BI. | SQL · Power BI · PostgreSQL |
 
 ---
 
@@ -81,7 +85,7 @@ Fundador de **[Polpo](https://polpo.ar)**, agencia de automatización digital pa
 
 ## 🏢 Experiencia
 
-**Municipalidad de Guaymallén** · Jefe Administrativo — Análisis de datos · Mendoza, AR
+**Municipalidad de Guaymallén** · Jefe Administrativo — Datos, procesos y automatización operativa · Mendoza, AR
 
 **Polpo** · Founder & Technical Lead — Automatización y sistemas digitales para pymes LATAM
 
