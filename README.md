@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-montenegro)
 [![Web](https://img.shields.io/badge/polpo.ar-1a1a1a?style=for-the-badge&logo=globe&logoColor=white)](https://polpo.ar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauro@polpo.ar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somos.polpo@gmail.com)
 
 </div>
 
@@ -71,11 +71,7 @@ Data Analyst en la **Municipalidad de Guaymallén** y fundador de **[Polpo](http
 
 | Proyecto | Descripción | Stack | Stars |
 |---|---|---|---|
-| [ai-content-generation-pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline) | Pipeline editorial automatizado con n8n y Google Sheets. Rate-limit safe, angle rotation. | n8n · Sheets | ★ 4 |
-| [gmaps-lead-scraper](https://github.com/mauro-montenegro-data/gmaps-lead-scraper) | Scraper de Google Maps con Playwright que puntúa leads y los upsertea en Supabase. Resumen por WhatsApp. | Python · Supabase | ★ 7 |
-| [instagram-analytics-dashboard](https://github.com/mauro-montenegro-data/instagram-analytics-dashboard) | Dashboard interactivo de métricas de Instagram: engagement, alcance y tendencias. | JavaScript | ★ 3 |
-| [polpo-demo-pages](https://github.com/mauro-montenegro-data/polpo-demo-pages) | Landing pages de demo para prospectos PyME como herramienta de venta directa. | HTML · CSS | — |
-
+| [ai-content-generation-pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline) | Pipeline editorial automatizado con n8n y Google Sheets. Rate-limit safe, angle rotation. | n8n · Sheets | ★ 4 
 ---
 
 ## 🏢 Experiencia
