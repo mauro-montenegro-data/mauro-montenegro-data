@@ -17,13 +17,13 @@ Técnico Superior en Ciencia de Datos con experiencia en gestión operativa, mej
 
 ## Perfil
 
-Actualmente soy **Jefe Administrativo en la Municipalidad de Guaymallén**. Mi recorrido profesional empezó en la operación —producción industrial, emergencias médicas, gastronomía y gestión— y con el tiempo se fue concentrando en datos, automatización y tecnología.
+Soy un profesional de operaciones que se fue especializando en **datos, automatización y mejora de procesos**. Actualmente trabajo como **Jefe Administrativo en la Municipalidad de Guaymallén**, después de haber pasado por producción industrial, emergencias médicas, gastronomía y gestión operativa.
 
-Trabajo sobre problemas concretos: entender cómo funciona una operación, ordenar su información y construir herramientas que permitan **registrar, controlar, automatizar, medir y tomar mejores decisiones**.
+Ese recorrido me llevó a trabajar sobre un tipo de problema recurrente: información dispersa, tareas manuales, poca trazabilidad y decisiones que dependen demasiado del conocimiento de una persona. Hoy uso datos y tecnología para convertir esos problemas en procesos más estructurados y herramientas utilizables.
 
 También desarrollo proyectos a través de **[Polpo](https://polpo.ar)**, con foco en datos, automatización e implementación de herramientas operativas.
 
-**Busco roles donde se crucen operaciones, datos, análisis, mejora continua y automatización.**
+**Busco roles donde se crucen Operations, Data, Analytics, Process Improvement y Automation.**
 
 ---
 
@@ -32,16 +32,16 @@ También desarrollo proyectos a través de **[Polpo](https://polpo.ar)**, con fo
 | Caso | Problema / solución | Qué demuestra |
 |---|---|---|
 | [**Control Operativo de Ventas y Cobranzas**](https://mauro-montenegro-data.github.io/portfolio/cases/ventas-cobranzas.html) | Pipeline reproducible que recibe cinco fuentes dispersas, valida calidad, separa registros rechazados y genera datos procesados, reportes y trazabilidad de cada ejecución. Demo con datos 100% sintéticos: 1.974 filas recibidas, 1.868 procesadas y 106 rechazadas. [Demo pública](https://polpo-control-demo.vercel.app/) | Python · Pandas · data quality · reglas de negocio · trazabilidad |
-| [**Gestión de Depósito Municipal**](https://mauro-montenegro-data.github.io/portfolio/cases/deposito.html) | Sistema construido sobre una base PostgreSQL legacy para productos, stock, entradas, salidas, series y cargos. Incorpora usuarios, roles, sesiones, auditoría y control de movimientos. | Operaciones · PostgreSQL · Node.js/TypeScript · React · seguridad · adaptación a sistemas existentes |
 | [**Gestión de Espacios Públicos**](https://mauro-montenegro-data.github.io/portfolio/cases/espacios-publicos.html) | Herramienta interna para reemplazar registros desconectados —planillas, papeles y seguimientos informales— por un flujo centralizado de espacios, pedidos, intervenciones, cuadrillas, expedientes y trámites. | Análisis de procesos · modelado de datos · full-stack · UX para usuarios no técnicos |
 | [**Sistema de Turnos — Ecografías del Sur**](https://mauro-montenegro-data.github.io/portfolio/cases/ecografias-turnos.html) | Sistema local para recepción, llamado del paciente y sala de espera, operando en red interna con actualización en tiempo real y documentación de instalación/operación. | Cliente real · Node.js · SQLite · WebSockets · implementación y soporte operativo |
+| [**Gestión de Depósito Municipal**](https://mauro-montenegro-data.github.io/portfolio/cases/deposito.html) | Sistema construido sobre una base PostgreSQL legacy para productos, stock, entradas, salidas, series y cargos. Incorpora usuarios, roles, sesiones, auditoría y control de movimientos. | Operaciones · PostgreSQL · Node.js/TypeScript · React · seguridad · adaptación a sistemas existentes |
 | [**Project Control**](https://mauro-montenegro-data.github.io/portfolio/cases/project-control.html) | Herramienta en desarrollo para reconstruir el estado de proyectos técnicos a partir de repositorios y documentación, separando evidencia, observaciones, claims y modelos de trabajo. | Diseño de producto técnico · modelado · Git/GitHub · trazabilidad de evidencia |
 
 > Algunos repositorios de trabajo real son privados por el contexto operativo de los proyectos. Los casos públicos y demos usan datos sintéticos o material preparado específicamente para portfolio.
 
 ---
 
-## Proyectos públicos
+## Código público para revisar
 
 ### [Control de stock + alertas](https://github.com/mauro-montenegro-data/ops-data-portfolio)
 PostgreSQL + SQL + n8n + Telegram. Calcula stock actual, detecta faltantes contra el punto de reposición y envía alertas automáticas.
