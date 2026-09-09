@@ -4,7 +4,7 @@
 
 **Operations & Data · Automation · Process Improvement**
 
-Técnico Superior en Ciencia de Datos con experiencia en gestión operativa, mejora de procesos y desarrollo de herramientas internas.
+Profesional de operaciones especializado en datos, automatización y herramientas internas.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1949A3?style=flat-square&logo=githubpages&logoColor=white)](https://mauro-montenegro-data.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-montenegro-data)
@@ -17,11 +17,19 @@ Técnico Superior en Ciencia de Datos con experiencia en gestión operativa, mej
 
 ## Perfil
 
-Soy un profesional de operaciones que se fue especializando en **datos, automatización y mejora de procesos**. Actualmente trabajo como **Jefe Administrativo en la Municipalidad de Guaymallén**, después de haber pasado por producción industrial, emergencias médicas, gastronomía y gestión operativa.
+Mi recorrido no fue lineal hacia tecnología. Primero aprendí a trabajar y gestionar operaciones; después empecé a detectar que muchos de los problemas que encontraba podían resolverse mejor con **datos, automatización y herramientas propias**.
 
-Ese recorrido me llevó a trabajar sobre un tipo de problema recurrente: información dispersa, tareas manuales, poca trazabilidad y decisiones que dependen demasiado del conocimiento de una persona. Hoy uso datos y tecnología para convertir esos problemas en procesos más estructurados y herramientas utilizables.
+Actualmente trabajo como **Jefe Administrativo en Espacios Verdes** y soy **Técnico Superior en Ciencia de Datos**. Antes pasé por producción industrial, emergencias médicas, gastronomía y gestión de depósito. Esa experiencia me dio contacto directo con procesos, personas, tiempos, restricciones y sistemas que no siempre pueden reemplazarse de cero.
 
-También desarrollo proyectos a través de **[Polpo](https://polpo.ar)**, con foco en datos, automatización e implementación de herramientas operativas.
+Hoy trabajo especialmente sobre problemas como:
+
+- información dispersa entre planillas, sistemas y personas;
+- tareas manuales que pueden estructurarse o automatizarse;
+- operaciones con poca trazabilidad;
+- integración con fuentes sin API o sistemas legacy;
+- herramientas internas para usuarios no técnicos.
+
+También desarrollo proyectos a través de **[Polpo](https://polpo.ar)**.
 
 **Busco roles donde se crucen Operations, Data, Analytics, Process Improvement y Automation.**
 
@@ -29,15 +37,35 @@ También desarrollo proyectos a través de **[Polpo](https://polpo.ar)**, con fo
 
 ## Trabajo seleccionado
 
-| Caso | Problema / solución | Qué demuestra |
-|---|---|---|
-| [**Control Operativo de Ventas y Cobranzas**](https://mauro-montenegro-data.github.io/portfolio/cases/ventas-cobranzas.html) | Pipeline reproducible que recibe cinco fuentes dispersas, valida calidad, separa registros rechazados y genera datos procesados, reportes y trazabilidad de cada ejecución. Demo con datos 100% sintéticos: 1.974 filas recibidas, 1.868 procesadas y 106 rechazadas. [Demo pública](https://polpo-control-demo.vercel.app/) | Python · Pandas · data quality · reglas de negocio · trazabilidad |
-| [**Gestión de Espacios Públicos**](https://mauro-montenegro-data.github.io/portfolio/cases/espacios-publicos.html) | Herramienta interna para reemplazar registros desconectados —planillas, papeles y seguimientos informales— por un flujo centralizado de espacios, pedidos, intervenciones, cuadrillas, expedientes y trámites. | Análisis de procesos · modelado de datos · full-stack · UX para usuarios no técnicos |
-| [**Sistema de Turnos — Ecografías del Sur**](https://mauro-montenegro-data.github.io/portfolio/cases/ecografias-turnos.html) | Sistema local para recepción, llamado del paciente y sala de espera, operando en red interna con actualización en tiempo real y documentación de instalación/operación. | Cliente real · Node.js · SQLite · WebSockets · implementación y soporte operativo |
-| [**Gestión de Depósito Municipal**](https://mauro-montenegro-data.github.io/portfolio/cases/deposito.html) | Sistema construido sobre una base PostgreSQL legacy para productos, stock, entradas, salidas, series y cargos. Incorpora usuarios, roles, sesiones, auditoría y control de movimientos. | Operaciones · PostgreSQL · Node.js/TypeScript · React · seguridad · adaptación a sistemas existentes |
-| [**Project Control**](https://mauro-montenegro-data.github.io/portfolio/cases/project-control.html) | Herramienta en desarrollo para reconstruir el estado de proyectos técnicos a partir de repositorios y documentación, separando evidencia, observaciones, claims y modelos de trabajo. | Diseño de producto técnico · modelado · Git/GitHub · trazabilidad de evidencia |
+### [Control Operativo de Ventas y Cobranzas](https://mauro-montenegro-data.github.io/portfolio/cases/ventas-cobranzas.html)
+Pipeline reproducible en Python sobre cinco fuentes. Valida estructura y reglas de negocio, normaliza, separa rechazados, aplica correcciones seguras y deja evidencia de cada ejecución.
 
-> Algunos repositorios de trabajo real son privados por el contexto operativo de los proyectos. Los casos públicos y demos usan datos sintéticos o material preparado específicamente para portfolio.
+**Corrida demo:** 1.974 filas recibidas → 1.868 procesadas · 106 rechazadas · 1.622 observaciones. Dataset 100% sintético.  
+[Demo pública](https://polpo-control-demo.vercel.app/)
+
+`Python` `Pandas` `Pytest` `Data Quality` `Auditability`
+
+### [Gestión de Espacios Públicos](https://mauro-montenegro-data.github.io/portfolio/cases/espacios-publicos.html)
+Partí del relevamiento de una operación con pedidos, espacios, cuadrillas, intervenciones y trámites que se seguían entre planillas, papel y conversaciones. Lo transformé en un MVP full-stack con estados, historial y datos estructurados.
+
+`Process Analysis` `TypeScript` `PostgreSQL` `React` `Data Modeling`
+
+### [Sistema de Turnos — Ecografías](https://mauro-montenegro-data.github.io/portfolio/cases/ecografias-turnos.html)
+Sistema local en operación que coordina recepción, profesional y sala de espera. Usa estados persistidos, WebSockets e importación desde Excel, con instalación y recuperación pensadas para un entorno Windows real.
+
+`Node.js` `Express` `SQLite` `WebSockets` `Local-first`
+
+### [Gestión de Depósito](https://mauro-montenegro-data.github.io/portfolio/cases/deposito.html)
+Aplicación construida alrededor de una base PostgreSQL legacy ya existente. Evolucionó desde consulta de stock hacia entradas, salidas, series, usuarios, roles, sesiones server-side y auditoría sin reemplazar de golpe la estructura operativa previa.
+
+`Node.js` `TypeScript` `PostgreSQL` `React` `Security` `Legacy Integration`
+
+### [Project Control](https://mauro-montenegro-data.github.io/portfolio/cases/project-control.html)
+Experimento en desarrollo para derivar una vista de trabajo desde evidencia explícita de repositorios y documentación, separando Observation → Evidence → Claims → WorkModel.
+
+`Architecture` `Git/GitHub` `Evidence` `Modeling`
+
+> Los repositorios vinculados a operaciones reales se mantienen privados. Los casos públicos y demos usan datos sintéticos o material preparado específicamente para portfolio.
 
 ---
 
@@ -62,8 +90,8 @@ Workflow con n8n, OpenAI y Google Sheets con validación previa, generación, QA
 
 ## Experiencia y formación
 
-**Municipalidad de Guaymallén** · Jefe Administrativo — Espacios Verdes · Mendoza, Argentina  
-Experiencia previa dentro del área como Supervisor de Depósito.
+**Jefe Administrativo — Espacios Verdes** · Mendoza, Argentina  
+Experiencia previa como Supervisor de Depósito dentro del área.
 
 **Polpo** · Datos, automatización y herramientas operativas para organizaciones y pymes.
 
