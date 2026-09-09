@@ -6,6 +6,7 @@
 
 Técnico Superior en Ciencia de Datos con experiencia en gestión operativa, mejora de procesos y desarrollo de herramientas internas.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1949A3?style=flat-square&logo=githubpages&logoColor=white)](https://mauro-montenegro-data.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-montenegro-data)
 [![Web](https://img.shields.io/badge/polpo.ar-1949A3?style=flat-square&logo=googlechrome&logoColor=white)](https://polpo.ar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maumontenegrom@gmail.com)
@@ -30,11 +31,11 @@ También desarrollo proyectos a través de **[Polpo](https://polpo.ar)**, con fo
 
 | Caso | Problema / solución | Qué demuestra |
 |---|---|---|
-| **Control Operativo de Ventas y Cobranzas** | Pipeline reproducible que recibe cinco fuentes dispersas, valida calidad, separa registros rechazados y genera datos procesados, reportes y trazabilidad de cada ejecución. Demo con datos 100% sintéticos: 1.974 filas recibidas, 1.868 procesadas y 106 rechazadas. [Demo pública](https://polpo-control-demo.vercel.app/) | Python · Pandas · data quality · reglas de negocio · trazabilidad |
-| **Gestión de Depósito Municipal** | Sistema construido sobre una base PostgreSQL legacy para productos, stock, entradas, salidas, series y cargos. Incorpora usuarios, roles, sesiones, auditoría y control de movimientos. | Operaciones · PostgreSQL · Node.js/TypeScript · React · seguridad · adaptación a sistemas existentes |
-| **Gestión de Espacios Públicos** | Herramienta interna para reemplazar registros desconectados —planillas, papeles y seguimientos informales— por un flujo centralizado de espacios, pedidos, intervenciones, cuadrillas, expedientes y trámites. | Análisis de procesos · modelado de datos · full-stack · UX para usuarios no técnicos |
-| **Sistema de Turnos — Ecografías del Sur** | Sistema local para recepción, llamado del paciente y sala de espera, operando en red interna con actualización en tiempo real y documentación de instalación/operación. | Cliente real · Node.js · SQLite · WebSockets · implementación y soporte operativo |
-| **Project Control** | Herramienta en desarrollo para reconstruir el estado de proyectos técnicos a partir de repositorios y documentación, separando evidencia, observaciones, claims y modelos de trabajo. | Diseño de producto técnico · modelado · Git/GitHub · trazabilidad de evidencia |
+| [**Control Operativo de Ventas y Cobranzas**](https://mauro-montenegro-data.github.io/portfolio/cases/ventas-cobranzas.html) | Pipeline reproducible que recibe cinco fuentes dispersas, valida calidad, separa registros rechazados y genera datos procesados, reportes y trazabilidad de cada ejecución. Demo con datos 100% sintéticos: 1.974 filas recibidas, 1.868 procesadas y 106 rechazadas. [Demo pública](https://polpo-control-demo.vercel.app/) | Python · Pandas · data quality · reglas de negocio · trazabilidad |
+| [**Gestión de Depósito Municipal**](https://mauro-montenegro-data.github.io/portfolio/cases/deposito.html) | Sistema construido sobre una base PostgreSQL legacy para productos, stock, entradas, salidas, series y cargos. Incorpora usuarios, roles, sesiones, auditoría y control de movimientos. | Operaciones · PostgreSQL · Node.js/TypeScript · React · seguridad · adaptación a sistemas existentes |
+| [**Gestión de Espacios Públicos**](https://mauro-montenegro-data.github.io/portfolio/cases/espacios-publicos.html) | Herramienta interna para reemplazar registros desconectados —planillas, papeles y seguimientos informales— por un flujo centralizado de espacios, pedidos, intervenciones, cuadrillas, expedientes y trámites. | Análisis de procesos · modelado de datos · full-stack · UX para usuarios no técnicos |
+| [**Sistema de Turnos — Ecografías del Sur**](https://mauro-montenegro-data.github.io/portfolio/cases/ecografias-turnos.html) | Sistema local para recepción, llamado del paciente y sala de espera, operando en red interna con actualización en tiempo real y documentación de instalación/operación. | Cliente real · Node.js · SQLite · WebSockets · implementación y soporte operativo |
+| [**Project Control**](https://mauro-montenegro-data.github.io/portfolio/cases/project-control.html) | Herramienta en desarrollo para reconstruir el estado de proyectos técnicos a partir de repositorios y documentación, separando evidencia, observaciones, claims y modelos de trabajo. | Diseño de producto técnico · modelado · Git/GitHub · trazabilidad de evidencia |
 
 > Algunos repositorios de trabajo real son privados por el contexto operativo de los proyectos. Los casos públicos y demos usan datos sintéticos o material preparado específicamente para portfolio.
 
