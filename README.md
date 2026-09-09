@@ -2,98 +2,76 @@
 
 # Mauro Montenegro
 
-**Data Analyst · Operations Automation · Founder @Polpo**
+**Operations & Data · Automation · Process Improvement**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-montenegro-data)
-[![Web](https://img.shields.io/badge/polpo.ar-1a1a1a?style=for-the-badge&logo=globe&logoColor=white)](https://polpo.ar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somos.polpo@gmail.com)
+Técnico Superior en Ciencia de Datos con experiencia en gestión operativa, mejora de procesos y desarrollo de herramientas internas.
 
-</div>
-
----
-
-## Sobre mí
-
-Jefe Administrativo en la **Municipalidad de Guaymallén** con foco en datos, automatización y mejora de procesos operativos.
-Fundador de **[Polpo](https://polpo.ar)**, agencia de automatización digital para pymes latinoamericanas. Construyo pipelines, dashboards y flujos que reducen trabajo manual y convierten procesos repetitivos en sistemas más ordenados, medibles y automatizados.
-
-> *"Si el proceso es repetitivo, lo automatizo."*
-
----
-
-## 🚀 Ahora mismo
-
-| | |
-|---|---|
-| 🔨 **Building** | WhatsApp bot + sistema de llamado de turno para clínica médica |
-| 📚 **Learning** | AWS fundamentals · dbt · Analytics Engineering |
-| 🎯 **Looking for** | Roles de Data Analyst / Operations Analyst |
-| 🌐 **Agency** | [polpo.ar](https://polpo.ar) — automatización para pymes LATAM |
-
----
-
-## ⚙️ Stack
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauro-montenegro-data)
+[![Web](https://img.shields.io/badge/polpo.ar-1949A3?style=flat-square&logo=googlechrome&logoColor=white)](https://polpo.ar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maumontenegrom@gmail.com)
 
 </div>
 
 ---
 
-## 📁 Proyectos destacados
+## Perfil
 
-| Proyecto | Descripción | Stack |
+Actualmente soy **Jefe Administrativo en la Municipalidad de Guaymallén**. Mi recorrido profesional empezó en la operación —producción industrial, emergencias médicas, gastronomía y gestión— y con el tiempo se fue concentrando en datos, automatización y tecnología.
+
+Trabajo sobre problemas concretos: entender cómo funciona una operación, ordenar su información y construir herramientas que permitan **registrar, controlar, automatizar, medir y tomar mejores decisiones**.
+
+También desarrollo proyectos a través de **[Polpo](https://polpo.ar)**, con foco en datos, automatización e implementación de herramientas operativas.
+
+**Busco roles donde se crucen operaciones, datos, análisis, mejora continua y automatización.**
+
+---
+
+## Trabajo seleccionado
+
+| Caso | Problema / solución | Qué demuestra |
 |---|---|---|
-| [ops-data-portfolio](https://github.com/mauro-montenegro-data/ops-data-portfolio) | Control de stock operativo: PostgreSQL + n8n → alertas de faltantes a Telegram en tiempo real. | PostgreSQL · n8n · Docker |
-| [ai-content-generation-pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline) | Pipeline de generación de contenido con GPT-4, validación multicapa y QA automático. 88% pass rate en pruebas. | n8n · OpenAI · Sheets |
-| [polpo-web](https://github.com/mauro-montenegro-data/polpo-web) | Sitio web institucional de Polpo — agencia de automatización para pymes LATAM. Deploy en Vercel + dominio polpo.ar. | HTML · CSS · Vercel |
-| [clinic-caller-system](https://github.com/mauro-montenegro-data/clinic-caller-system) | Sistema de llamado de turno para sala de espera con display en pantalla. Integración con Helios vía Excel export. | Node.js · Docker · HTML |
-| [whatsapp-bot-clinic](https://github.com/mauro-montenegro-data/whatsapp-bot-clinic) | Bot de atención automatizada por WhatsApp para clínica médica. WhatsApp Cloud API + n8n + Supabase. | n8n · WhatsApp API · Supabase |
-| [gestion-espacios-publicos](https://github.com/mauro-montenegro-data/gestion-espacios-publicos) | Dashboard operativo para gestión y seguimiento de espacios verdes municipales. Análisis de datos con SQL y Power BI. | SQL · Power BI · PostgreSQL |
+| **Control Operativo de Ventas y Cobranzas** | Pipeline reproducible que recibe cinco fuentes dispersas, valida calidad, separa registros rechazados y genera datos procesados, reportes y trazabilidad de cada ejecución. Demo con datos 100% sintéticos: 1.974 filas recibidas, 1.868 procesadas y 106 rechazadas. [Demo pública](https://polpo-control-demo.vercel.app/) | Python · Pandas · data quality · reglas de negocio · trazabilidad |
+| **Gestión de Depósito Municipal** | Sistema construido sobre una base PostgreSQL legacy para productos, stock, entradas, salidas, series y cargos. Incorpora usuarios, roles, sesiones, auditoría y control de movimientos. | Operaciones · PostgreSQL · Node.js/TypeScript · React · seguridad · adaptación a sistemas existentes |
+| **Gestión de Espacios Públicos** | Herramienta interna para reemplazar registros desconectados —planillas, papeles y seguimientos informales— por un flujo centralizado de espacios, pedidos, intervenciones, cuadrillas, expedientes y trámites. | Análisis de procesos · modelado de datos · full-stack · UX para usuarios no técnicos |
+| **Sistema de Turnos — Ecografías del Sur** | Sistema local para recepción, llamado del paciente y sala de espera, operando en red interna con actualización en tiempo real y documentación de instalación/operación. | Cliente real · Node.js · SQLite · WebSockets · implementación y soporte operativo |
+| **Project Control** | Herramienta en desarrollo para reconstruir el estado de proyectos técnicos a partir de repositorios y documentación, separando evidencia, observaciones, claims y modelos de trabajo. | Diseño de producto técnico · modelado · Git/GitHub · trazabilidad de evidencia |
+
+> Algunos repositorios de trabajo real son privados por el contexto operativo de los proyectos. Los casos públicos y demos usan datos sintéticos o material preparado específicamente para portfolio.
 
 ---
 
+## Proyectos públicos
 
-## 📊 GitHub Stats
+### [Control de stock + alertas](https://github.com/mauro-montenegro-data/ops-data-portfolio)
+PostgreSQL + SQL + n8n + Telegram. Calcula stock actual, detecta faltantes contra el punto de reposición y envía alertas automáticas.
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mauro-montenegro-data&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauro-montenegro-data&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mauro-montenegro-data&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
+### [AI Content Generation Pipeline](https://github.com/mauro-montenegro-data/ai-content-generation-pipeline)
+Workflow con n8n, OpenAI y Google Sheets con validación previa, generación, QA, logging y separación explícita entre contenido aprobado y fallos.
 
 ---
 
+## Herramientas
 
-## 🏢 Experiencia
+**Datos:** Python · Pandas · SQL · PostgreSQL · Excel / Google Sheets · Power BI  
+**Automatización e integración:** n8n · APIs REST · webhooks · WhatsApp Cloud API · Supabase  
+**Desarrollo:** Node.js · TypeScript · JavaScript · React · Git / GitHub · Playwright  
+**Forma de trabajo:** análisis de procesos · documentación · validaciones · trazabilidad · implementación iterativa
 
-**Municipalidad de Guaymallén** · Jefe Administrativo — Datos, procesos y automatización operativa · Mendoza, AR
+---
 
-**Polpo** · Founder & Technical Lead — Automatización y sistemas digitales para pymes LATAM
+## Experiencia y formación
+
+**Municipalidad de Guaymallén** · Jefe Administrativo — Espacios Verdes · Mendoza, Argentina  
+Experiencia previa dentro del área como Supervisor de Depósito.
+
+**Polpo** · Datos, automatización y herramientas operativas para organizaciones y pymes.
+
+**Técnico Superior en Ciencia de Datos** · Teclab Instituto Técnico Superior · 2023–2025
 
 ---
 
 <div align="center">
 
-![Mendoza, Argentina](https://img.shields.io/badge/📍_Mendoza-Argentina-lightgrey?style=flat-square)
-![Open to work](https://img.shields.io/badge/🎯_Open_to-Data_/_Ops_Analyst_roles-2da44e?style=flat-square)
+**Mendoza, Argentina · Open to Data / Operations / Automation roles**
 
 </div>
